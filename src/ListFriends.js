@@ -6,6 +6,7 @@ export function ListFriends({ friends, SelectedFriend, handleSelection }) {
       <ul>
         {friends.map((friend) => (
           <Friend
+            key={friend.id}
             friend={friend}
             SelectedFriend={SelectedFriend}
             handleSelection={handleSelection}
