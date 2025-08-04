@@ -1,12 +1,55 @@
-# Eat-and-Split: A Beginner-Friendly React Project
+# 🍽️ Eat-and-Split – A Beginner-Friendly React App
 
-Eat-and-Split is a simple React application designed for beginners to explore the fundamentals of state management using the useState hook. The app demonstrates how to track and update state dynamically based on user interactions.
+##  Key Features
 
-### Key Features:
-Dynamic State Updates: Learn how to use useState for managing component state.
+- 👉 **Dynamic State Updates**  
+  Use `useState` to track and update component data based on user input.
 
-User Interaction Handling: Practice updating state based on inputs or actions.
+- 👉 **User Interaction Handling**  
+  Learn how to react to form inputs and button clicks in real-time.
 
-Clean and Modular Code: A simple structure that emphasizes React best practices.
+- 👉 **Clean Component Structure**  
+  Simple and readable code that follows React best practices.
 
-This project is perfect for beginners looking to get hands-on experience with React's core concepts and build confidence in using state to manage application logic.
+- 👉 **Great for Learning**  
+  Focused on a single core concept — state — to reinforce understanding.
+
+---
+
+##  Why This Project?
+
+- 👉 **Beginner-Focused**  
+  Ideal for those just getting started with React and functional components.
+
+- 👉 **Hands-On Learning**  
+  Gives you practical experience with how React handles state and re-renders.
+
+- 👉 **Best Practice Patterns**  
+  Encourages readable, modular, and reusable code.
+
+---
+
+##  Tech Stack
+
+- **React** – Functional components with `useState`
+- **JavaScript** – ES6 syntax
+- **CSS** – Basic styling (vanilla or utility classes)
+
+---
+
+##  What You'll Learn
+
+- How to set up and run a basic React project
+- Managing local component state using `useState`
+- Building interactive UI components
+- Handling form input and user-driven logic
+- Structuring a small project cleanly and efficiently
+
+---
+
+##  Getting Started
+
+```bash
+npm install
+npm start
+```
